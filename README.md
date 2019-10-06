@@ -26,7 +26,7 @@ def Fibonacci(n):
     else: 
         return Fibonacci(n-1)+Fibonacci(n-2)
   
-print(Fibonacci(100)) 
+print(Fibonacci(input("Enter the limit: )) 
 ```
 ## Create your first pull request :+1:
 
